@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8fcfbb12-1fd7-4f2b-aff2-d97df2748f4d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "1.0" (at 269.24 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3814c578-3bdc-4531-93b9-6c47bbf6766d)
+  )
+  (text "6 Port USB Hub" (at 186.69 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 962321f1-5516-4dd5-b86a-49b814c0b749)
+  )
+  (text "13 November 2023" (at 207.01 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 96234a5a-bbc9-44ee-a547-302e12b9e055)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
